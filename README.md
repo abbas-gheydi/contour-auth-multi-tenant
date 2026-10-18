@@ -1,6 +1,6 @@
 # contour-auth-multi-tenant
 
-`contour-auth-multi-tenant` is an Envoy-compatible authorization server that builds upon the foundation of [contour-authserver](https://github.com/projectcontour/contour-authserver).
+`contour-auth-multi-tenant` is an Envoy-compatible authorization server that  builds upon the foundation of [contour-authserver](https://github.com/projectcontour/contour-authserver).
 
 `contour-authserver` implements the Envoy [external authorization][4]
 GRPC protocol (both v2 and v3). `contour-authserver` has two authorization
